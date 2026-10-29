@@ -11,3 +11,7 @@ This repository contains a website for Green Bikes, a fictional bicycle rental c
 
 1. Download or clone this repository to your computer.
 2. Open the `index.html` file in a web browser such as Chrome, Firefox or Edge.
+
+## Website
+
+Visit the website: https://teresazoldyck.github.io/ed-git-website/
